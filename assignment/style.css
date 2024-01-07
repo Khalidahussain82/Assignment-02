@@ -1,0 +1,52 @@
+
+#child{
+    background-image: url('./images/camera.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#innerdiv{
+    height: 90px;
+    width: 290px;
+    color: white;
+    border: 2px solid white;
+    padding: 50px;
+    letter-spacing: 3px;
+    text-align: center;
+    font-size: 30px;
+
+    
+    
+}
+
+
+#navbar{
+    background-color: gainsboro;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+#navbar a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    margin: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+
+}
+img{
+    margin: 20px 50px;
+    width: 92%;
+    height: 450px;
+}
